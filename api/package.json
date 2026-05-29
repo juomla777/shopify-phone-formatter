@@ -1,0 +1,13 @@
+{
+  "name": "shopify-phone-formatter",
+  "version": "1.0.0",
+  "description": "Webhook to format Egyptian phone numbers in Shopify",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build needed'"
+  },
+  "keywords": ["shopify", "webhook", "phone", "formatter"],
+  "author": "",
+  "license": "MIT"
+}
